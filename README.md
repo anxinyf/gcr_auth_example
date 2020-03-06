@@ -1,1 +1,1 @@
-# gcr_auth_example
+# Search gcr.io images via curl
